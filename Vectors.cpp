@@ -7,7 +7,6 @@ using namespace std;
 	    {
 	    int x,y,z; 
 	    };
-	    V A={1,2,3};
 	   static V Vsum(V u, V v)
 	{
 	    V r;
